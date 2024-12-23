@@ -2,7 +2,7 @@
 
 A customizable, accessible, and feature-rich OTP (One-Time Password) input component for React applications.
 
-![OTP Input Demo](demo-placeholder.gif)
+![OTP Input Demo](https://github.com/user-attachments/assets/f8118c36-729f-4929-87c2-fd3080a924ff)
 
 ## Features
 
